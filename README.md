@@ -1,4 +1,4 @@
-# Socket.io & TypeScript starter template
+# TypeScript starter template
 
 ## The foundation for your next multi-user application
 ### Installation:
